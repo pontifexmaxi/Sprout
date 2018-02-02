@@ -1,8 +1,7 @@
 import java.util.Date;
 
 public class Person {
-    private String firstName, middleName, lastName, birthPlace, deathPlace;
-    private Date birthDate, deathDate;
-
+    private String suffix, firstName, middleName, lastName, birthPlace, christeningPlace, deathPlace, burialPlace;
+    private Date birthDate, christeningDate, deathDate, burialDate;
 
 }
