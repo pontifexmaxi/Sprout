@@ -19,7 +19,7 @@ public class Person {
     private Person mom, dad;
     private Person[] children, siblings;
     private boolean isAlive;
-    private byte gender;
+    private char gender;
     byte birthDay;
     byte birthMonth;
     private byte christeningDay;
